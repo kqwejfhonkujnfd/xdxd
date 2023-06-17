@@ -14,7 +14,7 @@ param (
 [System.Collections.ArrayList]$embedArray = @()
 
 #Store embed values
-$title       = 'gute nacht'
+$title       = 'allah1337'
 $description = $text
 $color       = '1'
 
